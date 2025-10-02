@@ -16,6 +16,7 @@ public class AceptaElReto002 {
 		 * mayúsculas.
 		 */
 		// Declaro las variables
+	
 		String respuesta;
 		Scanner reader = new Scanner(System.in);
 		// Indico al usuario que respona con una palabra para terminar la frase
@@ -32,6 +33,19 @@ public class AceptaElReto002 {
 		}
 		// Cierro el Scanner
 		reader.close();
+		
+//		
+//		int numero;
+//		String respuesta;
+//		
+//		Scanner reader = new Scanner(System.in);
+//		
+//		numero = reader.nextInt();
+//		reader.nextLine();
+//		for (int i=1; i<=numero; i++) {
+//			respuesta = reader.nextLine();
+//			System.out.println(respuesta.equalsIgnoreCase("colgadas") ? "Bien" : "Mal");
+//		}
 	}
 
 }
