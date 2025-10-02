@@ -19,24 +19,7 @@ public class AceptaElReto001 {
 		 * comillas) si la vivienda está situada a la izquierda de la calle, y "DERECHA"
 		 * si está a la derecha.
 		 */
-
-//		// Opcion A (incompleta)
-//		// Declaro las variables 
-//		String lado;
-//		int numeroVivienda;
-//		// Creo el Scanner
-//		Scanner reader = new Scanner(System.in);
-//		// Solicito al usuario que introduzca el número de la vivienda y leo el valor introducido
-//		System.out.println("Introduce el número de la vivienda para saber donde está");
-//		numeroVivienda = reader.nextInt();
-//		// Asigno a la variable parOImpar la condición del ternario.
-//		lado=numeroVivienda%2==0 ? "derecha" : "izquierda";
-//		// Imprimo el mensaje final diciendo 
-//		System.out.println("Se encuentra a la "+lado+" de la calle");
-//		// Cierro el Scanner
-//		reader.close();
-
-		// Opción B (deepseek)
+		
 		// Declaro las variables
 		String lado;
 		int numeroVivienda;
